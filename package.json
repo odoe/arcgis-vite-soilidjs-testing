@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@arcgis/core": "4.24.4",
+    "solid-js": "1.4.1"
+  },
+  "devDependencies": {
+    "vite": "^2.9.13",
+    "vite-plugin-solid": "^2.2.6"
+  },
+  "keywords": [],
+  "name": "arcgis-vite-testing",
+  "description": ""
+}
